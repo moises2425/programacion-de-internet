@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<title>Moises Vargas Montoya</title>
+<body>
+<h1>Moises Vargas Montoya</h1>
+<h2>Datos De Contacto</h2>
+<p>Teléfono: 3322332233</p>
+<h2>Grados De Estudios</h2>
+<p>Último: Preparatoria</p>
+<p>Cursando: Ingeniería Informática</p>
+
+
+
+
+</body>
+</html>
